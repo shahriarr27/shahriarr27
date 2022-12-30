@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning **MEARN**
 
-💬 Ask me about **PHP, LARAVEL, HTML, CSS**
+💬 Ask me about **PHP, LARAVEL, HTML, CSS, JavaScript**
 
 📫 Reach me through **https://www.linkedin.com/in/shahriar-sohag-54b534190/**
 
