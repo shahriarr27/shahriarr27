@@ -1,4 +1,4 @@
-[![MasterHead](GitHub.png)](https://webshahriar.com/)
+[![MasterHead](GitHub.png)](https://shahriarsohag.com/)
 <h2 align="center">Hi 👋, I'm Shahriar Ahmmed</h2>
 <h4 align="center">A passionate full stack developer from Bangladesh</h4>
 <br><br>
@@ -10,7 +10,7 @@
 
 💬 Ask me about **PHP, LARAVEL, HTML, CSS, JavaScript**
 
-📫 Reach me through **https://www.linkedin.com/in/shahriar-sohag-54b534190/** <br><br><br>
+📫 Reach me through **https://www.linkedin.com/in/shahriarsohag/** <br><br><br>
 ![](https://komarev.com/ghpvc/?username=shahriarr27&color=red)
 <br>
 <h3 align="left">Languages and Tools:</h3>
